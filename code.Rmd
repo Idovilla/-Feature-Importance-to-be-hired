@@ -1,12 +1,3 @@
----
-title: "Project "
-author: "Team 14"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
-
 # Team 14 project:
 
 ### (Ido Villa, Tal Klein, Ariel Siman Tov)
